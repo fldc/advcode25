@@ -1,0 +1,13 @@
+{
+    "name": "day4-part1",
+    "description": "Day 4 - Part 1",
+    "toolkit": "basic",
+    "sources": [
+        "src/main.bas"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
